@@ -1,0 +1,14 @@
+/* styles.css */
+
+body {
+    background-color: aqua;
+    color:crimson;
+    text-align: center;
+    font-family: sans-serif;
+}
+li {
+    font-size: 22px;
+}
+ul {
+    list-style-type: none;
+}
